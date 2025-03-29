@@ -1,4 +1,12 @@
 {
-    "routerMap": [
-    ]
+  "routerMap": [
+    {
+      "name": "setting",
+      "pageSourceFile": "src/main/ets/pages/setting.ets",
+      "buildFunction": "SettingBuilder",
+      "data": {
+        "description": "this is ChatRoom"
+      }
+    }
+  ]
 }
